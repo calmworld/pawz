@@ -1,0 +1,21 @@
+{
+    "owner": {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "pets": [
+        {
+          "id": "101",
+          "name": "Buddy",
+          "type": "Dog"
+        },
+        {
+          "id": "102",
+          "name": "Whiskers",
+          "type": "Cat"
+        }
+      ]
+    }
+  }
+  
