@@ -1,5 +1,5 @@
 import { useQuery } from '@apollo/client';
-import { GET_OWNER } from '../queries/GET_OWNER';
+import { GET_OWNER } from '../graphql/queries/GET_OWNER';
 
 
 
