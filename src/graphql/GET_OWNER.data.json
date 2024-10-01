@@ -1,17 +1,17 @@
 {
     "owner": {
-      "id": "1",
+      "id": "001",
       "firstName": "John",
       "lastName": "Doe",
       "email": "john.doe@example.com",
       "pets": [
         {
-          "id": "101",
+          "id": "pet-001",
           "name": "Buddy",
           "type": "Dog"
         },
         {
-          "id": "102",
+          "id": "pet-002",
           "name": "Whiskers",
           "type": "Cat"
         }
